@@ -1,2 +1,4 @@
 # Lampe_tactile_materiaux_conducteur
-Lampe tactile avec matériaux conducteur
+Arduino Project : Lampe tactile avec matériaux conducteur
+
+#Youtube tutorial : https://youtu.be/QsRocjy8CEM
